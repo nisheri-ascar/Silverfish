@@ -7,6 +7,7 @@ from . import entity
 from . import network
 from . import player
 from . import utils
+from . import configparser  
 
 # Import files
 from . import BasicClasses
